@@ -28,3 +28,11 @@
   31 git restore testing.java
   32 clear
   33 git status
+
+
+-
+   4 git push origin msster
+   5 git remote set-url origin https://ghp_TOKEN@github.com/SakshamSoni...
+   6 git remote -v
+   7 git push origin master
+   8 clear
