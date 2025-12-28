@@ -1,0 +1,30 @@
+4 ls
+   5 git init
+   6 clear
+   7 dir
+   8 ls -a
+   9 dir
+  10 ls
+  11 clear
+  12 git status
+  13 clear
+  14 ls
+  15 cat testing.java
+  16 git status
+  17 clear
+  18 git add tstin
+  19 git add testing.java
+  20 ls
+  21 git add testing.java
+  22 git status
+  23 git rm --cached testing.java
+  24 git status
+  25 git add testing.java
+  26 git status
+  27 git commit -m "added testing files"
+  28 git status
+  29 rm testing.java
+  30 ls
+  31 git restore testing.java
+  32 clear
+  33 git status
